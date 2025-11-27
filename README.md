@@ -99,8 +99,9 @@ MIT
 ## 👤 Author
 
 **Shisaku918**
-- GitHub: [@Shisaku918](https://github.com/Shisaku918)
+- GitHub: [@Shigeru3e7](https://github.com/Shhigeru3e7)
 
 ---
 
 Built with focus on practical sleep management, not judgment. Sleep debt happens—let's manage it smartly. 💤
+
